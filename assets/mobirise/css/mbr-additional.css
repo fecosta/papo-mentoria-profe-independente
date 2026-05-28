@@ -2186,8 +2186,8 @@ a {
   background-color: #edefeb;
 }
 .cid-vkcWHat1nq {
-  padding-top: 5rem;
-  padding-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffd1d1;
 }
 .cid-vkcWHat1nq .mbr-fallback-image.disabled {
@@ -2225,45 +2225,6 @@ a {
   padding-top: 1rem;
   padding-bottom: 4rem;
   background-color: #ffd1d1;
-}
-.cid-vhs2ucqLfi {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #edefeb;
-}
-.cid-vhs2ucqLfi .main-row {
-  flex-direction: row-reverse;
-}
-.cid-vhs2ucqLfi .mbr-section-title {
-  text-align: center;
-}
-.cid-vhs2ucqLfi .mbr-text,
-.cid-vhs2ucqLfi .mbr-section-btn {
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-vhs2ucqLfi .item-wrapper {
-    margin-bottom: 3rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-vhs2ucqLfi .item-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-vhs2ucqLfi .dragArea {
-  justify-content: center;
-}
-.cid-vhs2ucqLfi .btn {
-  margin: 0.6rem 0 0 0;
-}
-.cid-vhs2ucqLfi .mbr-section-btn {
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-vhs2ucqLfi .mbr-section-btn {
-    width: 100%;
-  }
 }
 .cid-uOkftgXFNd {
   padding-top: 2rem;
